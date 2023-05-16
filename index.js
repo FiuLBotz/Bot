@@ -8,7 +8,7 @@ const { default: kaylaConnect, useSingleFileAuthState, DisconnectReason, fetchLa
 const { color, bgcolor } = require('./lib/color')
 const colors = require('colors')
 const { uncache, nocache } = require('./lib/loader')
-const { state } = useSingleFileAuthState(`./kayla.json`)
+const { state } = useSingleFileAuthState(`./Fiul.json`)
 const { start } = require('./lib/spinner')
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif')
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep, reSize } = require('./lib/myfunc')
@@ -34,7 +34,7 @@ version
 
 store.bind(kayla.ev)
 
-console.log(color(figlet.textSync(`Kayla`, {
+console.log(color(figlet.textSync(`FiuL`, {
 font: 'Standard',
 horizontalLayout: 'default',
 vertivalLayout: 'default',
@@ -84,7 +84,7 @@ participant: `0@s.whatsapp.net`,
 },
 "message": {
 "pollCreationMessage": {
-"name": `_Wellcome..._ `,
+"name": `Jangan Lupa Intro ya...`,
 "options": [
 	{
 "optionName": "KATANYA WA KEBAL"
