@@ -117,7 +117,7 @@ try {
         const hidetik = Math.floor( ceDadah % (1000 * 60) / 1000)
         const UltahCreator = new Date('Mei 8, 2024 00:00:00')
         const CreatorKayla = new Date().getTime()
-        const KaylaBotWA = UltahCreator - CreatorFiuL
+        const KaylaBotWA = UltahCreator - CreatorKayla
         const kayhari = Math.floor( KaylaBotWA / (1000 * 60 * 60 * 24));
         const kayjam = Math.floor( KaylaBotWA % (1000 * 60 * 60 * 24) / (1000 * 60 * 60))
         const kaymenit = Math.floor( KaylaBotWA % (1000 * 60 * 60) / (1000 * 60))
