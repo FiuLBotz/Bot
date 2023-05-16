@@ -101,7 +101,7 @@ try {
         const jjam = Math.floor( Selisih % (1000 * 60 * 60 * 24) / (1000 * 60 * 60))
         const jmenit = Math.floor( Selisih % (1000 * 60 * 60) / (1000 * 60))
         const jdetik = Math.floor( Selisih % (1000 * 60) / 1000)
-        const idulFitri = new Date('April 14, 2023 00:00:00')
+        const idulFitri = new Date('April 14, 2024 00:00:00')
         const ayeuna = new Date().getTime()
         const ceIroh = idulFitri - ayeuna
         const hahari = Math.floor( ceIroh / (1000 * 60 * 60 * 24));
@@ -117,7 +117,7 @@ try {
         const hidetik = Math.floor( ceDadah % (1000 * 60) / 1000)
         const UltahCreator = new Date('Mei 8, 2024 00:00:00')
         const CreatorKayla = new Date().getTime()
-        const KaylaBotWA = UltahCreator - CreatorKayla
+        const KaylaBotWA = UltahCreator - CreatorFiuL
         const kayhari = Math.floor( KaylaBotWA / (1000 * 60 * 60 * 24));
         const kayjam = Math.floor( KaylaBotWA % (1000 * 60 * 60 * 24) / (1000 * 60 * 60))
         const kaymenit = Math.floor( KaylaBotWA % (1000 * 60 * 60) / (1000 * 60))
@@ -1656,7 +1656,6 @@ caption: `⭔ Title : ${cejd.title}
 ⭔ Source : ${cejd.link}
 ⭔ Media Url : ${cejd.video_1}` }, { quoted: m })
 }
-//leren sek\\
 break
 case 'menfes': case 'confes':
 if (Object.values(anon.anonymous).find(p => p.check(sender))) return reply("Anda masih didalam room")
@@ -2101,7 +2100,6 @@ Ovo : ${ovono}
 Makasih Yang Udah ${command} Semoga Rezeki Nya Di Limpahkan Semoga Selalu Diberkati Tuhan.`, mentions: [sender]},{quoted:m})
 }
 break
-//leren sek
 case 'igdl':
 			if (args.length == 0) return reply(`Example: ${prefix + command} https://www.instagram.com/p/CJ8XKFmJ4al/?igshid=1acpcqo44kgkn`)
 			axios.get(`https://api.lolhuman.xyz/api/instagram?apikey=AdrianTzy&url=${args[0]}`).then(({ data }) => {
@@ -2605,7 +2603,6 @@ addResponList(from, args1, args2, false, '-', db_respon_list)
 reply(`Sukses Add List Dengan Kunci : *${args1}*`)
 }
 break
-//leren sek
 case 'dellist':
 if (!itsMeKayla) return reply(mess.owner)
 if (!m.isGroup) return reply(mess.group)
@@ -3353,7 +3350,6 @@ await sleep(1000)
 reply(`Sukses Send Bug Ke Nomor ${num} Sebanyak ${jumlah}`)
 }
 break
-\\leren sek
 case 'vngas':{
 if (!isPrem) return replyprem(mess.premium)
 if (!q) return reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 62857××××××××`)
@@ -3858,7 +3854,6 @@ if (/leaves/.test(command)) link = 'https://textpro.me/natural-leaves-text-effec
 let anu = await textpro.textpro(link, q)
 kayla.sendMessage(m.chat, { image: { url: anu }, caption: `${mess.succes}` }, { quoted: m })
 }
-//leren sek
 break
 case 'glitchtext':
 case 'writetext':
