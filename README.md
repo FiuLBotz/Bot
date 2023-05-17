@@ -19,13 +19,12 @@ Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Se
  <a href="#"><img title="Nita Cangtip" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/FiuLBotz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Syafiul Mubarrok-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://wa.me/6285707731622?text=bang+gw+dari+github"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Syafiul Mubarrok-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
 ## ```Connect With Me 📞``` 
 
-## ```Whatsapp```
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285707731622?text=Join+Group+Bot+Bang+Dapet+Nomor+Dari+Github) 
 ---------
 
