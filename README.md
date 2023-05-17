@@ -12,7 +12,7 @@ Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Se
 
 <h1 align="center">FiuLBotz - MD</h1>
 <p align="center">
-  <a href="https://github.com/FiuLBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=FiuL+BOT+Multi+Device;Base+ori+by+Kayla;Recode+By+FiuLBotz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/FiuLBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=FiuL+BOT+Multi+Device;Base+ori+by+Kayla;Recode+By+SYAFIULOFFICIAL;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
