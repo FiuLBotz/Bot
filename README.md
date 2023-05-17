@@ -1,6 +1,6 @@
 ## CATATAN
 Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu Brother!!
-       Baca Sampai Akhir Biar gk Error!!
+*       Baca Sampai Akhir Biar gk Error!!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
     <img src="https://e.top4top.io/p_2693ubcia9.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
