@@ -18,9 +18,9 @@
 > **Warning**: Script Jangan Di Perjual Belikan ,Kecuali Ada Tambahan Fitur Tersendiri Dari Kamu
 Dan Jangan Lupa Kasih TqTq/Credits Ya Kak
 
-<h1 align="center">Akiyama-Bot (Multi Device)</h1>
+<h1 align="center">FiuL-Bot (Multi Device)</h1>
 <p align="center">
-  <a href="https://lynk.id/syafiulofficial"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=FiuL+BOT+Multi+Device;Base+ori+by+Dittaz;Recode+By+SYAFIULOFFICIAL;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://lynk.id/syafiulofficial"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=FiuL+BOT+Multi+Device;Base+ori+By+Kayla;Recode+By+SYAFIULOFFICIAL;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
