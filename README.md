@@ -1,34 +1,60 @@
-## CATATAN
-Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu Brother!!
 *       Baca Sampai Akhir Biar gk Error!!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <img src="https://telegra.ph/file/e9b17f3aecc70348a3165.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://res.cloudinary.com/digtxl0uh/image/upload/v1688427571/tmp_nnwbuo.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+
+</p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FiuLBotz&theme=monokai)
+
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=officialdittaz&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
 ## PENTING
 
-> **Warning**: Script Ini Tidak Support Qr Untuk Saat Ini, Jadi Kalian Bisa Menggunakan Replit Untuk Mengambil Session Atau
-Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Sesi Bisa Pakai session kalian yg lama dan ubah File sesi Kalian menjadi Fiul.json
+> **Warning**: Script Jangan Di Perjual Belikan ,Kecuali Ada Tambahan Fitur Tersendiri Dari Kamu
+Dan Jangan Lupa Kasih TqTq/Credits Ya Kak
 
-<h1 align="center">FiuLBotz - MD</h1>
+<h1 align="center">Akiyama-Bot (Multi Device)</h1>
 <p align="center">
-  <a href="https://github.com/FiuLBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=FiuL+BOT+Multi+Device;Base+ori+by+Kayla;Recode+By+SYAFIULOFFICIAL;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://lynk.id/syafiulofficial"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=FiuL+BOT+Multi+Device;Base+ori+by+Dittaz;Recode+By+SYAFIULOFFICIAL;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="Nita Cangtip" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Nita-Cangtip" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://wa.me/6285707731622?text=bang+gw+dari+github"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Syafiul Mubarrok-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://lynk.id/syafiulofficial"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Syafiul Mubarrok-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
 ## ```Connect With Me 📞``` 
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285707731622?text=Join+Group+Bot+Bang+Dapet+Nomor+Dari+Github) 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283843344198?text=.allmenu) 
 ---------
+## Run For Windows/Vps/Rdp
 
+* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
+* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
+* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
+* Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
+
+## For Termux
+```
+> termux-setup-storage
+> apt update && apt upgrade
+> pkg install nodejs
+> pkg install git 
+> pkg install libwebp 
+> pkg install bash
+> pkg install ffmpeg
+> Pkg install wget
+> cd /sdcard && cd Bot && npm start
+```
+---------
 ### a little about this bot
 - ✔️ | **Simple** 
 - ✔️ | **Button Template** 
@@ -37,74 +63,25 @@ Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Se
 ---------
 ### Some of the features include
 - ✔️ | Downloader 
-- ✔️ | Internet 
+- ✔️ | Open ai 
 - ✔️ | Game Rpg 
 - ✔️ | Nsfw 
 - ✔️ | Sticker 
-- ✔️ | Game 
-- ✔️ | Kerang Ajaib 
+- ✔️ | Group Command 
+- ✔️ | Opentime/Closetime
 - ✔️ | Quotes
 - ✔️ | Anime 
 - ✔️ | Premium 
 - ✔️ | Tools 
-- ✔️ | Exec 
-- ✔️ | React 
 - ✔️ | Menfess Balas
 ---------
 
 ## ```For User Bot WhatsApp```
-[![WHATSAPP](https://img.shields.io/badge/Whatsapp%20Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285707731622) 
+[![WHATSAPP](https://img.shields.io/badge/Whatsapp%20Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283843344198?text=.allmenu) 
 ---------
-
-## ```USER RAILWAY```
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/FiuLBotz/Bot)
-
-## ```REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/FiuLBotz/Bot)](https://repl.it/github/FiuLBotz/Bot)
 
 ## ```YOUTUBE```
-[![Youtube](https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCs6_PmL5XM7KB3gIOOyx2gA)
-
----------
-
-## ```Nama Session```
-[ Fiul.json ]
-
-## `--pconly`
-* If that chat not from private bot, bot will ignore
-
-## `--gconly`
-* If that chat not from group, bot will ignore
-
-## `--swonly`
-* If that chat not from status, bot will ignore
-
-## `--server`
-* Used for heroku,replit,railway and all panel or scan through website
-
-## `--restrict`
-* Enables restricted plugins (which can lead your number to be **banned** if used too often)
-* Group Administration `add, kick`
-
-## `--img`
-* Enable image inspector through terminal
-
-## `--autoread`
-* If enabled, all incoming messages will be marked as read
-
-## `--nyimak`
-* No bot, just print received messages and add users to database
-
-
----------
-
-### 📮 S&K
-1. Not For Sale
-2. Don't forget give star this repo
-3. Follow Github
-4. Don't use this repository wrong!
-5. If you have problem chat me in owner number
+[![Youtube](https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@syafiulofficial)
 
 ---------
 
@@ -121,7 +98,7 @@ Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Se
 
 ## ```Recode By ✏️```
 <p align="center">
-    <img src="https://telegra.ph/file/e9b17f3aecc70348a3165.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://res.cloudinary.com/digtxl0uh/image/upload/v1688413965/tmp_dqzkfn.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## ```@syafiulofficial```
